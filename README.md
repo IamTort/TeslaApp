@@ -5,6 +5,7 @@ The application displays data for interacting with the Tesla car, displays clima
   <img style="padding 10;" src="img/1.png" height="400" />
   <img style="padding 10;" src="img/2.png" height="400" /> 
   <img style="padding 10;" src="img/3.png" height="400" />
+  <img style="padding 10;" src="img/4.png" height="400" />
 </p>
 
 *  Main screen of application display lock/unlock.
